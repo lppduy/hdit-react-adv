@@ -20,6 +20,7 @@ const App = () => {
       {/* <Lesson3 /> */}
       {/* <Lesson4 /> */}
       <Lesson5 />
+      <Footer />
     </div>
   );
 };
