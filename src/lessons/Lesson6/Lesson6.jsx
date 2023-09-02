@@ -4,8 +4,8 @@ import TraditionalForm from './TraditionalForm';
 const Lesson6 = props => {
   return (
     <div className="lesson6-container">
-      <TraditionalForm />
-      {/* <HookForm /> */}
+      {/* <TraditionalForm /> */}
+      <HookForm />
     </div>
   );
 };
